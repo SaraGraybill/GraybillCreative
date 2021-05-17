@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;GAGG;ACHH;;;GAGG;AAWH;;;GAGG;AAmBH;;;GAGG;AAcH;;;GAGG;AAUH;;;GAGG;AAYH;;;GAGG;AA2BH;;;GAGG;AASH;;;GAGG;AA2BH;;;GAGG;AAkCH;;;GAGG;AAQH;;;GAGG;AASH;;;GAGG;AASH;;;GAGG;AClOH;;wGAEyG;EACxG,SAAS,ECsCG,MAAM",
+"sources": ["modules/_brand-color.scss","modules/_helpers.scss","editor-layout.scss","partials/_base.scss"],
+"names": [],
+"file": "editor-layout.css"
+}

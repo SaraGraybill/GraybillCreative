@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="114px" viewBox="0 0 25 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 5</title>
+    <g id="Site-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Portfolio-Page---Graybill-Creative" transform="translate(-708.000000, -327.000000)" stroke="#6D6E71" stroke-width="6">
+            <g id="Group-2" transform="translate(0.000000, 119.000000)">
+                <g id="Group-5" transform="translate(720.500000, 263.500000) rotate(90.000000) translate(-720.500000, -263.500000) translate(668.000000, 257.000000)">
+                    <line x1="-5.67879077e-14" y1="6" x2="88" y2="6.5" id="Stroke-1"></line>
+                    <path d="M98.5,-2.5 C100.985522,-2.5 103.235315,-1.49254319 104.863842,0.135983896 C106.492714,1.76485656 107.5,4.01508777 107.5,6.5 C107.5,8.98577844 106.492733,11.235686 104.86421,12.8642096 C103.235686,14.4927332 100.985778,15.5 98.5,15.5 C96.0142216,15.5 93.764314,14.4927332 92.1357904,12.8642096 C90.5072668,11.235686 89.5,8.98577844 89.5,6.5 C89.5,4.01508777 90.5072857,1.76485656 92.1361583,0.135983896 C93.7646854,-1.49254319 96.0144782,-2.5 98.5,-2.5 Z" id="Stroke-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

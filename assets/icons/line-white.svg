@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="114px" viewBox="0 0 25 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="CTA" transform="translate(-708.000000, 3.000000)" stroke="#F4F4F4" stroke-width="6">
+            <g id="Group-5" transform="translate(720.500000, 52.500000) rotate(90.000000) translate(-720.500000, -52.500000) translate(668.000000, 46.000000)">
+                <g id="Group" transform="translate(0.000000, 0.500000)">
+                    <line x1="5.55111512e-17" y1="5.5" x2="88" y2="6" id="Stroke-1"></line>
+                    <path d="M98.5,-3 C100.985522,-3 103.235315,-1.99254319 104.863842,-0.364016104 C106.492714,1.26485656 107.5,3.51508777 107.5,6 C107.5,8.48577844 106.492733,10.735686 104.86421,12.3642096 C103.235686,13.9927332 100.985778,15 98.5,15 C96.0142216,15 93.764314,13.9927332 92.1357904,12.3642096 C90.5072668,10.735686 89.5,8.48577844 89.5,6 C89.5,3.51508777 90.5072857,1.26485656 92.1361583,-0.364016104 C93.7646854,-1.99254319 96.0144782,-3 98.5,-3 Z" id="Stroke-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
